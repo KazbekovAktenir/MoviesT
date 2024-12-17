@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MoviesT</string>
+    <string name="movie_poster">Описание изображения</string>
+</resources>
